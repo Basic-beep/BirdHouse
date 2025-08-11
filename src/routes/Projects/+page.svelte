@@ -1,3 +1,4 @@
-<div style="text-align: center;">
+
+<div>
     <h1>GenPass</h1>
 </div>
