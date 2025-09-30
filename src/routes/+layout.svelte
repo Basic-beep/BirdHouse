@@ -25,7 +25,7 @@
 
 
   :global(body) {
-		background-color: #90ee90;
+		background-color: #903390;
 		margin: 0;
 	}
   :global(p) {
@@ -49,4 +49,9 @@
   :global(h6) {
     text-align: center;
   }
+  :global(div) {
+    text-align: center;
+    
+  }
+
 </style>
