@@ -7,8 +7,8 @@
 	<a href="/">Hello</a>
 	<a href="/about">About Me</a>
   <a href="/Projects">My Projects</a>
-  </nav>
-  
+  <a href="/friends">friends!</a>
+  </nav>  
 
 </div>
 
@@ -17,7 +17,7 @@
   a:link, a:visited {
   background-color: #000000;
   color: white;
-  padding: 14px 194px;
+  padding: 14px 14px;
   text-align: center;
   text-decoration: none;
   display: inline-block;

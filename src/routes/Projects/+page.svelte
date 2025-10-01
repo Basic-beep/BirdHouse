@@ -9,7 +9,8 @@
     <h1>HikeBuddy</h1>
     <p>This is one of my big projects! <br>
     It is a hiking journal that will track how far you've hiked!<br>
-    follow along at <button><a href="https://github.com/Basic-beep/Hike-Buddy">here!</a></button></p>
+    follow along at <button><a href="https://github.com/Basic-beep/Hike-Buddy">here!</a></button><br>
+    it is kind of abandoned right now, but i will pick it up again when i know how to make it</p>
     <h1>________________________________________________________</h1>
     <h1>BirdHouse(this website!)</h1>
     <p>This is my portfolio website!<br>
@@ -22,5 +23,6 @@
     <h1>________________________________________________________</h1>
     <h1>cmprs</h1>
     <p>cmprs (pronounced compress) is a work in progress ysws for hackclub<br>
+        make a file manager or file system, get a winrar bag!<br>
     <a href="cmprs.vercel.app">Check out the website!</a></p>
 </div>
